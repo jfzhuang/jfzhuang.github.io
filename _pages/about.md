@@ -34,7 +34,7 @@ My research interest includes video analysis and computer vision for UAVs, medic
 - ``CVPR 2022``[Semi-Supervised Video Semantic Segmentation with Inter-Frame Feature Reconstruction](). **Jiafan Zhuang**, Zilei Wang*, Yuan Gao
 - ``ICCVW 2021``[5th Place Solution for VSPW 2021 Challenge](). **Jiafan Zhuang**, Yixin Zhang, Xinyu Hu, Junjie Li, Zilei Wang*
 - ``AAAI 2021``[Efficient License Plate Recognition via Holistic Position Attention](). Yesheng Zhang, Zilei Wang*, **Jiafan Zhuang**
-- ``ECCV 2018``[Towards Human-Level License Plate Recognition](). **Jiafan Zhuang**, Saihui Hou, Zilei Wang*, Zheng-Jun Zha
+- ``ECCV 2018``[Towards Human-Level License Plate Recognition](/publications/ECCV2018.pdf). **Jiafan Zhuang**, Saihui Hou, Zilei Wang*, Zheng-Jun Zha
 
 # 📝 Patents
 - 王子磊、庄嘉帆，视频语义分割网络的训练方法、系统、设备及存储介质，申请号：202210132989.6，申请日：2022-02-14
