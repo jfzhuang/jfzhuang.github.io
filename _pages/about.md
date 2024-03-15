@@ -18,7 +18,7 @@ My research interest includes video analysis and computer vision for UAVs, medic
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2024
-- 
+
 # 📝 Publications (Conference Paper)
 - Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation. **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan. CVPR, 2024.
 - A Multi-Agent Control Model Based on Gene Regulatory Network. Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*. BigDIA, 2023.
