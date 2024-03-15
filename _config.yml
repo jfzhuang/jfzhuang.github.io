@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Jiafan Zhuang (庄嘉帆)"
 description              : "Shantou University"
-repository               : "jfzhuang/jfzhuang.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "https://github.com/jfzhuang"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
