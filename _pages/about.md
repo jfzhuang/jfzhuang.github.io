@@ -1,6 +1,6 @@
 I work at Shantou University as a lecturer, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn.
 
-I graduated from University of Science and Technology of China (USTC) with a bachelor degree and a doctoral degree, advised by [Zilei Wang](http://vim.ustc.edu.cn/) (王子磊)
+I graduated from University of Science and Technology of China (USTC) with a bachelor degree and a doctoral degree, advised by [Zilei Wang](http://vim.ustc.edu.cn/) (王子磊).
 
 My research interest includes video analysis and computer vision for UAVs, medical and industrial applications. I have published 10+ papers at the top international AI conferences such as CVPR, ICCV, ECCV, AAAI.
 
