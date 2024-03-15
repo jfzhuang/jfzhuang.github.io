@@ -26,7 +26,7 @@ My research interest includes video analysis and computer vision for UAVs, medic
 - ``TCSVT 2021``[Video Semantic Segmentation with Distortion-Aware Feature Correction](). **Jiafan Zhuang**, Zilei Wang*, Bingke Wang
 
 # 📝 Publications (Conference Paper)
-- ``CVPR 2024``[Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation](). **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan
+- ``CVPR 2024``[Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation](). **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan 
 - ``BigDIA 2023``[A Multi-Agent Control Model Based on Gene Regulatory Network](). Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*
 - ``DOCS 2023``[A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity](). Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*
 - ``AAAI 2023``[Exploit Domain-robust Optical Flow in Domain Adaptive Video Semantic Segmentation](). Yuan Gao, Zilei Wang*, **Jiafan Zhuang**, Yixin Zhang, Junjie Li
