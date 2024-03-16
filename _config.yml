@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiafan Zhuang (庄嘉帆)"
-description              : "Shantou University"
+description              : "Lecturer in Shantou University, College of Engineering. Focusing on computer vision."
 repository               : "https://github.com/jfzhuang"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiafan Zhuang"
+  name             : "Jiafan Zhuang (庄嘉帆)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lecturer in Shantou University, College of Engineering. Focusing on computer vision."
+  bio              : "Shantou University"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
