@@ -35,6 +35,7 @@ My research interests include:
 - 5th Place Solution for VSPW 2021 Challenge. **Jiafan Zhuang**, Yixin Zhang, Xinyu Hu, Junjie Li, Zilei Wang*. ICCVW, 2021. [PDF](/publications/2022-ICCVW.pdf)
 - Efficient License Plate Recognition via Holistic Position Attention. Yesheng Zhang, Zilei Wang*, **Jiafan Zhuang**. AAAI, 2021. [PDF](/publications/2021-AAAI.pdf)
 - Towards Human-Level License Plate Recognition. **Jiafan Zhuang**, Saihui Hou, Zilei Wang*, Zheng-Jun Zha. ECCV, 2018. [PDF](/publications/2018-ECCV.pdf)
+
 ## Journal Paper
 - Frequency and content dual stream network for image dehazing. Meihua Wang, Lei Liao, De Huang, Zhun Fan*, **Jiafan Zhuang**, Wensheng Zhang. Image and Vision Computing, 2023. [PDF](/publications/2023-IVC.pdf)
 - Efficient Focus Autoencoders for Fast Autonomous Flight in Intricate Wild Scenarios. Kaiyu Hu, Huanli Li, **Jiafan Zhuang***, Zhifeng Hao*, Zhun Fan*. Drones, 2023. [PDF](/publications/2023-Drones.pdf)
