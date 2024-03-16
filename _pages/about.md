@@ -11,9 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I joined Shantou University as a lecturer in Sept. 2022, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn.
-
-I received the B.Eng. degree and PhD degree from University of Science and Technology of China (USTC) advised by [Prof. Zilei Wang](http://vim.ustc.edu.cn/) (王子磊).
+I joined Shantou University as a lecturer in Sept. 2022, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn. I received the B.Eng. degree and PhD degree from University of Science and Technology of China (USTC) advised by [Prof. Zilei Wang](http://vim.ustc.edu.cn/) (王子磊).
 
 My research interests include video analysis and computer vision for UAVs, medical and industrial applications.
 
