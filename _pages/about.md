@@ -18,7 +18,8 @@ My research interests include video analysis and computer vision for UAVs, medic
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2024
 
-# 📝 Publications (Conference Paper)
+# 📝 Publications
+## Conference Paper
 - Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation. **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan. CVPR, 2024.
 - A Multi-Agent Control Model Based on Gene Regulatory Network. Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*. BigDIA, 2023.
 - A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity. Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*. DOCS, 2023.
@@ -28,8 +29,7 @@ My research interests include video analysis and computer vision for UAVs, medic
 - 5th Place Solution for VSPW 2021 Challenge. **Jiafan Zhuang**, Yixin Zhang, Xinyu Hu, Junjie Li, Zilei Wang*. ICCVW, 2021. [PDF](/publications/2022-ICCVW.pdf)
 - Efficient License Plate Recognition via Holistic Position Attention. Yesheng Zhang, Zilei Wang*, **Jiafan Zhuang**. AAAI, 2021. [PDF](/publications/2021-AAAI.pdf)
 - Towards Human-Level License Plate Recognition. **Jiafan Zhuang**, Saihui Hou, Zilei Wang*, Zheng-Jun Zha. ECCV, 2018. [PDF](/publications/2018-ECCV.pdf)
-
-# 📝 Publications (Journal Paper)
+## Journal Paper
 - Frequency and content dual stream network for image dehazing. Meihua Wang, Lei Liao, De Huang, Zhun Fan*, **Jiafan Zhuang**, Wensheng Zhang. Image and Vision Computing, 2023. [PDF](/publications/2023-IVC.pdf)
 - Efficient Focus Autoencoders for Fast Autonomous Flight in Intricate Wild Scenarios. Kaiyu Hu, Huanli Li, **Jiafan Zhuang***, Zhifeng Hao*, Zhun Fan*. Drones, 2023. [PDF](/publications/2023-Drones.pdf)
 - Modular design automation of the morphologies, controllers, and vision systems for intelligent robots: a survey. Wenji Li, Zhaojun Wang, Ruitao Mai, Pengxiang Ren, Qinchang Zhang, Yutao Zhou, Ning Xu, **Jiafan Zhuang**, Bin Xin, Liang Gao, Zhifeng Hao and Zhun Fan*. Visual Intelligence, 2023. [PDF](/publications/2023-VI.pdf)
@@ -40,7 +40,7 @@ My research interests include video analysis and computer vision for UAVs, medic
 - 王子磊、庄嘉帆，轻量级视频语义分割方法、系统、设备及存储介质，申请号：202210068739.0，申请日：2022-01-20
 - 王子磊、庄嘉帆，高效准确的车牌识别方法，申请号：201710432232.8，申请日：2017-06-09，专利号：ZL201710432232.8，授权日：2020-01-03，证书号：3651847
 
-# 📝 Patents
+# 📝 Projects
 - 王子磊、庄嘉帆，视频语义分割网络的训练方法、系统、设备及存储介质，申请号：202210132989.6，申请日：2022-02-14
 - 王子磊、庄嘉帆，轻量级视频语义分割方法、系统、设备及存储介质，申请号：202210068739.0，申请日：2022-01-20
 - 王子磊、庄嘉帆，高效准确的车牌识别方法，申请号：201710432232.8，申请日：2017-06-09，专利号：ZL201710432232.8，授权日：2020-01-03，证书号：3651847
