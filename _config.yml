@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiafan Zhuang (庄嘉帆)"
-description              : "Lecturer in Shantou University, College of Engineering. Focusing on computer vision."
+title                    : "Jiafan Zhuang"
+description              : "Lecturer in College of Engineering. Focusing on computer vision."
 repository               : "https://github.com/jfzhuang"
 google_scholar_stats_use_cdn : false
 
