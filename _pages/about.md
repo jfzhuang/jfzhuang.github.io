@@ -11,11 +11,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I work at Shantou University as a lecturer, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn.
+I joined Shantou University as a lecturer in Sept. 2022, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn.
 
-I graduated from University of Science and Technology of China (USTC) with a bachelor degree and a doctoral degree, advised by [Zilei Wang](http://vim.ustc.edu.cn/) (王子磊).
+I received the B.Eng. degree and PhD degree from University of Science and Technology of China (USTC) advised by [Prof. Zilei Wang](http://vim.ustc.edu.cn/) (王子磊).
 
-My research interest includes video analysis and computer vision for UAVs, medical and industrial applications. I have published 10+ papers at the top international AI conferences such as CVPR, ICCV, ECCV, AAAI.
+My research interests include video analysis and computer vision for UAVs, medical and industrial applications.
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2024
@@ -44,4 +44,4 @@ My research interest includes video analysis and computer vision for UAVs, medic
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD, University of Science and Technology of China. 
-- *2013.09 - 2017.06*, Undergraduate, University of Science and Technology of China. 
+- *2013.09 - 2017.06*, B.Eng, University of Science and Technology of China. 
