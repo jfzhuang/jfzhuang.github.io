@@ -120,9 +120,9 @@
 }
 
 .author__name {
-  margin: auto;
+  margin: 0;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
