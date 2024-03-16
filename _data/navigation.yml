@@ -6,11 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications (Conference Paper)"
-    url: "/#-publications (Conference Paper)"
-
-  - title: "Publications (Journal Paper)"
-    url: "/#-publications (Journal Paper)"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Patents"
     url: "/#-patents"
