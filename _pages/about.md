@@ -28,7 +28,7 @@ My research interests include:
 ## Conference Paper
 - Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation. **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan. CVPR, 2024.
 - A Multi-Agent Control Model Based on Gene Regulatory Network. Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*. BigDIA, 2023. [PDF](/publications/2023-BigDIA.pdf)
-- A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity. Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*. DOCS, 2023.
+- A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity. Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*. DOCS, 2023. [PDF](/publications/2023-DOCS.pdf)
 - Exploit Domain-robust Optical Flow in Domain Adaptive Video Semantic Segmentation. Yuan Gao, Zilei Wang*, **Jiafan Zhuang**, Yixin Zhang, Junjie Li. AAAI, 2023. [PDF](/publications/2023-AAAI.pdf)
 - Towards Effective Instance Discrimination Contrastive Loss for Unsupervised Domain Adaptation. Yixin Zhang, Zilei Wang*, Junjie Li, **Jiafan Zhuang**, Zihan Lin. ICCV, 2023. [PDF](/publications/2023-ICCV.pdf)
 - Semi-Supervised Video Semantic Segmentation with Inter-Frame Feature Reconstruction. **Jiafan Zhuang**, Zilei Wang*, Yuan Gao. CVPR, 2022. [PDF](/publications/2022-CVPR.pdf)
