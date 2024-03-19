@@ -16,7 +16,7 @@ I received the B.Eng. degree and PhD degree from University of Science and Techn
 I joined Shantou University as a lecturer in Sept. 2022, leading a computer vision research group. If you are seeking any form of academic cooperation, please feel free to email me at jfzhuang@stu.edu.cn. 
 
 My research interests include:
-- Video Analysis
+- Video Analysis 
 - Unsupervised/Semi-supervised/Weakly-supervised Learning
 - Domain Adaptation/Generalization
 - UAV/Medical/Industrial Vision Applications 
