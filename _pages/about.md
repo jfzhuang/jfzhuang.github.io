@@ -22,10 +22,14 @@ My research interests include:
 - UAV/Medical/Industrial Vision Applications 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2024
+- *2024.02*: &nbsp;🎉🎉 1 paper has been accepted by CVPR 2024
+- *2024.09*: &nbsp;🎉🎉 1 paper has been accepted by BigDIA 2024 as the Best Student Paper
+- *2024.10*: &nbsp;🎉🎉 1 paper has been accepted by CCIR 2024 for Oral Presentation 
 
 # 📝 Publications
 ## Conference Paper
+- Attention-Driven Mixing Perception based on Object Detection for UAV Distance Estimation. Duan Yuan, Yicheng Luo, Rihong Yan, **Jiafan Zhuang***, Zhun Fan*. CCIR, 2024
+- Deep Reinforcement Learning based Multi-UAV Collision Avoidance with Causal Representation Learning. Gaofei Han, Qingling Wu, Boxi Wang, Che Lin, **Jiafan Zhuang***, Wenji Li*, Zhifeng Hao, Zhun Fan*. BigDIA, 2024.
 - Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation. **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan. CVPR, 2024.
 - A Multi-Agent Control Model Based on Gene Regulatory Network. Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*. BigDIA, 2023. [PDF](/publications/2023-BigDIA.pdf)
 - A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity. Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*. DOCS, 2023. [PDF](/publications/2023-DOCS.pdf)
