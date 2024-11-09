@@ -22,9 +22,9 @@ My research interests include:
 - UAV/Medical/Industrial Vision Applications 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 1 paper has been accepted by CVPR 2024
-- *2024.09*: &nbsp;🎉🎉 1 paper has been accepted by BigDIA 2024 as the Best Student Paper
-- *2024.10*: &nbsp;🎉🎉 1 paper has been accepted by CCIR 2024 for Oral Presentation 
+- *2024.02*: &nbsp;🎉🎉 1 paper has been accepted by CVPR
+- *2024.09*: &nbsp;🎉🎉 1 paper has been accepted by BigDIA as the Best Student Paper
+- *2024.10*: &nbsp;🎉🎉 1 paper has been accepted by CCIR for an Oral Presentation 
 
 # 📝 Publications
 ## Conference Paper
