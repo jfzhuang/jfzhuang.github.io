@@ -29,9 +29,9 @@ My research interests include:
 
 # 📝 Publications
 ## Conference Paper
-- Robust Policy Learning for Multi-UAV Collision Avoidance with Causal Feature Selection. **Jiafan Zhuang**, Gaofei Han, Zihao Xia, Che Lin, Boxi Wang, Wenji Li, Dongliang Wang, Zhifeng Hao, Ruichu Cai, Zhun Fan. AAMAS, 2024. [PDF](/publications/conference/2024-AAMAS.pdf)
+- Robust Policy Learning for Multi-UAV Collision Avoidance with Causal Feature Selection. **Jiafan Zhuang**, Gaofei Han, Zihao Xia, Che Lin, Boxi Wang, Wenji Li, Dongliang Wang, Zhifeng Hao, Ruichu Cai, Zhun Fan\*. AAMAS, 2024. [PDF](/publications/conference/2024-AAMAS.pdf)
 - Attention-Driven Mixing Perception based on Object Detection for UAV Distance Estimation. Duan Yuan, Yicheng Luo, Rihong Yan, **Jiafan Zhuang**\*, Zhun Fan*. CCIR, 2024. [PDF](/publications/conference/2024-CCIR.pdf)
-- Deep Reinforcement Learning based Multi-UAV Collision Avoidance with Causal Representation Learning. Gaofei Han, Qingling Wu, Boxi Wang, Che Lin, **Jiafan Zhuang**\*, Wenji Li*, Zhifeng Hao, Zhun Fan*. BigDIA, 2024. [PDF](/publications/conference/2024-BigDIA.pdf)
+- Deep Reinforcement Learning based Multi-UAV Collision Avoidance with Causal Representation Learning. Gaofei Han, Qingling Wu, Boxi Wang, Che Lin, **Jiafan Zhuang**\*, Wenji Li\*, Zhifeng Hao, Zhun Fan\*. BigDIA, 2024. [PDF](/publications/conference/2024-BigDIA.pdf)
 - Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation. **Jiafan Zhuang**, Zilei Wang*, Yixin Zhang, Zhun Fan. CVPR, 2024. [PDF](/publications/conference/2024-CVPR.pdf)
 - A Multi-Agent Control Model Based on Gene Regulatory Network. Wenji Li, Pengxiang Ren, Zhaojun Wang, Dongliang Wang, Biao Xu, Chaotao Guan, Chuangbin Chen, **Jiafan Zhuang** and Zhun Fan*. BigDIA, 2023. [PDF](/publications/conference/2023-BigDIA.pdf)
 - A Constrained Multi-objective Evolutionary Algorithm Based on Early Convergence Followed by Diversity. Wenji Li, Yifeng Qiu, Zhaojun Wang, Qinchang Zhang, Ruitao Mai, Biao Xu, Yue Zhang, **Jiafan Zhuang**, Zhun Fan*. DOCS, 2023. [PDF](/publications/conference/2023-DOCS.pdf)
@@ -43,7 +43,7 @@ My research interests include:
 - Towards Human-Level License Plate Recognition. **Jiafan Zhuang**, Saihui Hou, Zilei Wang*, Zheng-Jun Zha. ECCV, 2018. [PDF](/publications/conference/2018-ECCV.pdf)
 
 ## Journal Paper
-- Paying more attention on backgrounds: Background-centric attention for UAV detection. Xiuxiu Lin, Yusu Niu, Xinran Yu, Zhun Fan, Jiafan Zhuang, An-Min Zhou. Neural Networks, 2025. [PDF](/publications/journal/2025-NN.pdf)
+- Paying more attention on backgrounds: Background-centric attention for UAV detection. Xiuxiu Lin, Yusu Niu, Xinran Yu, Zhun Fan, **Jiafan Zhuang**, An-Min Zhou\*. Neural Networks, 2025. [PDF](/publications/journal/2025-NN.pdf)
 - UAV Collision Avoidance in Unknown Scenarios with Causal Representation Disentanglement. Zhun Fan, Zihao Xia, Che Lin, Wenji Li, Dongliang Wang, Yindong Chen, Zhifeng Hao, Ruichu Cai, **Jiafan Zhuang**\*. Drones, 2024. [PDF](/publications/journal/2024-Drones.pdf)
 - Frequency and content dual stream network for image dehazing. Meihua Wang, Lei Liao, De Huang, Zhun Fan*, **Jiafan Zhuang**, Wensheng Zhang. Image and Vision Computing, 2023. [PDF](/publications/journal/2023-IVC.pdf)
 - Efficient Focus Autoencoders for Fast Autonomous Flight in Intricate Wild Scenarios. Kaiyu Hu, Huanli Li, **Jiafan Zhuang***, Zhifeng Hao*, Zhun Fan*. Drones, 2023. [PDF](/publications/journal/2023-Drones.pdf)
